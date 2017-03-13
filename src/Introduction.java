@@ -15,6 +15,7 @@ public class Introduction {
         }
 
         System.out.println(result.wasSuccessful());
+        //Retrieve output
     }
 
 }
